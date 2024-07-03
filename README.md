@@ -1,3 +1,9 @@
 <h1 align="center"> CONVERSOR DE MONEDA </h1>
-![moneda](https://github.com/LudwingLamus14/Conversor-de-Moneda/assets/125221711/09294be1-42ae-4383-b5b9-e65b785d436f)
+Este proyecto se realizó como parte del Bootcamp de Oracle Next Education en la plataforma Alura Latam #oraclenexteducation #AluraLatam.
+El objetivo fue desarrollar un conversor de monedas que permite convertir diferentes divisas realizando consultas a la API Exchange Rate acerca de la tasa de cambio de las siguientes divisas: 
 
+- Dólar
+- Peso Argentino
+- Real Brasileño
+- Peso Colombiano
+- Peso Mexicano
